@@ -8,7 +8,7 @@ const error404 = document.querySelector(".not-found");
 
 // Function to fetch weather data
 function fetchWeatherData(city) {
-  // API Key for OpenWeatherMap API
+  // API Key for OpenWeatherMap API (obselete key):
   const APIKey = "2f200026ae5c1d68dd0c52ed2e868e31";
 
   // Fetching weather data from OpenWeatherMap API
